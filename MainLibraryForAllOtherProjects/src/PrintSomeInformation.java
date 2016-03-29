@@ -5,7 +5,7 @@ public class PrintSomeInformation {
 
 	//No reason for this method.
 	static void informationAboutDay() {
-		Main.LOGGER.info("It useed only one LOGGER.");
+		Main.LOGGER.info("It uses only one LOGGER.");
 		
 		Prin.t("This is a trying class.");
 		
