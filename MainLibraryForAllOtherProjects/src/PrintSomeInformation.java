@@ -1,9 +1,9 @@
-// This class has no reason. 
+// Using logger. Don't forget how to use LOGGER.
 public class PrintSomeInformation {
 	PrintSomeInformation() {
 	}
 
-	//No reason for this method.
+
 	static void informationAboutDay() {
 		Main.LOGGER.info("It uses only one LOGGER.");
 		
