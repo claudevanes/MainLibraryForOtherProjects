@@ -25,4 +25,14 @@ public class Prin {
 	static void l(Integer number) {
 		System.out.println(number);
 	}
+
+	// Print method for double.
+	static void t(double number) {
+		System.out.print(number);
+	}
+
+	// Print line method for double.
+	static void l(double number) {
+		System.out.println(number);
+	}
 }
