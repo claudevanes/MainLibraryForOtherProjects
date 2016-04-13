@@ -1,6 +1,6 @@
 /* Method for print String. 
-Not need to use default method Println();
- You should add next and next method later.
+*Not need to use default method Println();
+*You should add next and next method later.
 */
 public class Prin {
 	Prin() {
