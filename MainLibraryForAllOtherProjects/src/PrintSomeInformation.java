@@ -8,6 +8,7 @@ public class PrintSomeInformation {
 		Main.LOGGER.info("It uses only one LOGGER.");
 		
 		Prin.t("This is a trying class.");
+		Prin.t("______");
 		
 	}
 
