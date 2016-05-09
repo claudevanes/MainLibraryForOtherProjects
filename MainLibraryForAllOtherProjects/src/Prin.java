@@ -35,4 +35,14 @@ public class Prin {
 	static void l(double number) {
 		System.out.println(number);
 	}
+	
+	// Print method for long.
+	static void t(long number){
+		System.out.print(number);
+	}
+	
+	// Print line method for long.
+	static void l(long number){
+		System.out.println(number);
+	}
 }
