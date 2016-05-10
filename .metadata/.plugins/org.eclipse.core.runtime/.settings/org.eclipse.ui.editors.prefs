@@ -1,0 +1,10 @@
+PHPReadOccurrenceIndicationColor=0,0,0
+PHPWriteOccurrenceIndicationColor=0,0,0
+deletionIndicationColor=210,82,82
+eclipse.preferences.version=1
+filteredSearchResultIndicationColor=30,144,255
+javaScriptOccurrenceIndicationColor=0,0,0
+occurrenceIndicationColor=255,0,128
+overviewRuler_migration=migrated_3.1
+searchResultIndicationColor=30,144,255
+writeOccurrenceIndicationColor=0,0,0

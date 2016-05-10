@@ -1,0 +1,11 @@
+package cars;
+
+public class Punto {
+
+	public Punto() {
+		this.color = black;
+	}
+
+	private String color;
+	
+}

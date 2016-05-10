@@ -1,0 +1,28 @@
+/*
+ * a+b
+ * a-b
+ */
+
+public class Sum {
+	Sum() {
+	}
+
+	public static void sum() {
+
+		int a = 7, b = 6;
+		Prin.l(sum(a, b));
+		Prin.l(difference(a, b));
+
+	}
+
+	// a+b
+	static int sum(int a, int b) {
+		return a + b;
+	}
+
+	// a-b
+	static int difference(int a, int b) {
+		return a - b;
+	}
+
+}

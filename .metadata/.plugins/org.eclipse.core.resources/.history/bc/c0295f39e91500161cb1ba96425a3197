@@ -1,0 +1,15 @@
+package colors;
+
+import cars.*;
+
+public class Blue {
+
+	public Blue() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void makeMeBlue(Car car) {
+
+	}
+
+}

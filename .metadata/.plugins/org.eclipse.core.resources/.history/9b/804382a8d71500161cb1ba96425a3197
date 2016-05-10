@@ -1,0 +1,18 @@
+/** Preprare  for whatever example.
+ * 
+ */
+
+public class RenameMe {
+
+	public RenameMe() {		
+	}
+ 
+	
+	public static void main(String[] args) {
+		Main.LOGGER.info("");
+
+			
+		
+	}
+
+}

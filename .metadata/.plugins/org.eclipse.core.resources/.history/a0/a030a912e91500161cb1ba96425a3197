@@ -1,0 +1,11 @@
+package cars;
+
+public class Car {
+
+	public Car() {
+		this.color = "black";
+	}
+
+	private String color;
+	
+}

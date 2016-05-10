@@ -1,0 +1,19 @@
+
+
+public class ScannerTry {
+	ScannerTry() {
+	}
+
+	// Class scanner
+	public static void main(String[] args) {
+
+		String ss = "This is a blue line.";
+
+		Scanner scanner = new Scanner();
+		
+		scanner.
+
+		Prin.t("" + scanner);
+	}
+
+}
