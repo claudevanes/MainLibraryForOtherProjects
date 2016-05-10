@@ -14,7 +14,7 @@ public class Main {
 		/**
 		 * two different way, how to call method, sum is not-for our
 		 * needes-static and its reason why we must write static Sum summ = new
-		 * Sum();
+		 * Sum(); ************
 		 */
 		summ.sum();
 
